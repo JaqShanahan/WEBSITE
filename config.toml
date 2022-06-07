@@ -24,7 +24,7 @@ defaultTheme = "dark"
   [[params.socialIcons]]
   name = "reddit"
   url = "https://reddit.com/r/leafguides"
-
+  
   [[params.socialIcons]]
   name = "github"
   url = "https://www.github.com/leafandJam"
