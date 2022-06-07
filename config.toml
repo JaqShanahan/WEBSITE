@@ -15,19 +15,19 @@ defaultTheme = "dark"
 
   [params.homeInfoParams]
   Title = "Welcome to the NEXUS"
-  Content = "This will primarily be used as a 'blog' meaning what every i want to post here really. #viewer discretion is advised#"
+  Content = "This will primarily be used as a 'blog' meaning what every i want to post here really. (viewer discretion is advised)"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://www.github.com/leafandJam"
+  url = "https://github.com/JaqShanahan"
 
   [[params.socialIcons]]
   name = "discord"
-  url = "https://discord.gg/NJsDS5YF"
+  url = "https://discord.gg/KP5d9Yg8"
 
   [[params.socialIcons]]
   name = "instagram"
-  url = "https://discord.gg/NJsDS5YF"
+  url = "https://www.instagram.com/jaqshanahan/"
 
 [[menu.main]]
 identifier = "Categories"
