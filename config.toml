@@ -1,7 +1,7 @@
 baseURL = 'https://github.com/JaqShanahan/WEBSITE'
 languageCode = 'en-us'
-title = 'My New'
-theme = "hugo-PaperMod"
+title = 'My Neew'
+theme = "PaperMod"
 
 [[menu.main]]
 identifier = "categories"
