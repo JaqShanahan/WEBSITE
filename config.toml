@@ -1,7 +1,7 @@
 baseURL = 'https://lively-pithivier-93ff92.netlify.app/'
 languageCode = 'en-us'
 title = 'My New'
-theme = PaperMod
+theme = 'PaperMod'
 
 [[menu.main]]
 identifier = "categories"
