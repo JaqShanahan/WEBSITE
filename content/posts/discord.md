@@ -11,3 +11,20 @@ Join here! This server will help with addressing any issues or helping out the u
 It will also be a place for you to submit any guides you have that could help out the website!
 
 This post will be pinned for a bit while users join.
+jkdghajkhsdg
+sdglasljgsa
+
+gfds
+h
+
+g
+df
+j
+h
+d
+j
+gfdh
+s
+ghtjy
+thdgrs
+fa
