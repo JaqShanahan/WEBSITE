@@ -1,4 +1,4 @@
-baseURL = 'https://lively-pithivier-93ff92.netlify.app/'
+baseURL = 'https://github.com/JaqShanahan/WEBSITE'
 languageCode = 'en-us'
 title = 'My New'
 theme = "hugo-PaperMod"
