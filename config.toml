@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/JaqShanahan/Nexus-Page.git/'
+baseURL = 'https://lively-pithivier-93ff92.netlify.app/'
 languageCode = 'en-us'
 title = 'My New'
 theme = themes/hugo-PaperMod
