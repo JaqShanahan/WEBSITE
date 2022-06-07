@@ -3,14 +3,3 @@ languageCode = 'en-us'
 title = 'My Neew'
 theme = "PaperMod"
 
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
-
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
