@@ -1,6 +1,6 @@
 baseURL = 'https://629ef3fc7af95700080527bb--lively-pithivier-93ff92.netlify.app/'
 languageCode = 'en-us'
-title = 'BOST'
+title = 'Jaq'
 theme = "PaperMod"
 
 [params]
@@ -14,17 +14,18 @@ hideFooter = false
 defaultTheme = "dark"
 
   [params.homeInfoParams]
-  Title = "Welcome to Leaf Guides"
-  Content = "Here you will find lots of useful guides to installing all things for ~free (everything here is strictly for educational purposes only. What you do with this information is up to you)"
+  Title = "Welcome to the NEXUS"
+  Content = "This will primarily be used as a 'blog' meaning what every i want to post here really. #viewer discretion is advised#"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://www.github.com/leafandJam"
 
   [[params.socialIcons]]
   name = "discord"
   url = "https://discord.gg/NJsDS5YF"
 
   [[params.socialIcons]]
-  name = "reddit"
-  url = "https://reddit.com/r/leafguides"
+  name = "instagram"
+  url = "https://discord.gg/NJsDS5YF"
 
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://www.github.com/leafandJam"
