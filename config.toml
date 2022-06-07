@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "PaperMod"
+theme = "theme/PaperMod"
 
 [params]
 ShowbreadCrumbs = true
@@ -24,7 +24,7 @@ defaultTheme = "dark"
   [[params.socialIcons]]
   name = "reddit"
   url = "https://reddit.com/r/leafguides"
-  
+
   [[params.socialIcons]]
   name = "github"
   url = "https://www.github.com/leafandJam"
