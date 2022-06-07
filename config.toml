@@ -29,3 +29,20 @@ defaultTheme = "dark"
   name = "instagram"
   url = "https://discord.gg/NJsDS5YF"
 
+[[menu.main]]
+identifier = "Categories"
+name = "Categories"
+url = "/categories/"
+weight = 20
+
+[[menu.main]]
+identifier = "Archives"
+name = "Archives"
+url = "/archives/"
+weight = 30
+
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 10
