@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/JaqShanahan/Nexus-Page.git/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New'
 theme = themes/hugo-PaperMod
 
 [[menu.main]]
