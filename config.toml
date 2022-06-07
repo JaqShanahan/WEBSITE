@@ -3,49 +3,14 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'themes/hugo-PaperMod'
 
-[params]
-ShowbreadCrumbs = true
-ShowReadingTime = true
-ShowPostNavLinks = false
-ShowShareButtons = false
-ShowToc = true
-ShowCodeCopyButtons = true
-hideFooter = false
-defaultTheme = "dark"
-
-  [params.homeInfoParams]
-  Title = "Welcome to Leaf Guides"
-  Content = "Here you will find lots of useful guides to installing all things for ~free (everything here is strictly for educational purposes only. What you do with this information is up to you)"
-
-  [[params.socialIcons]]
-  name = "discord"
-  url = "https://discord.gg/NJsDS5YF"
-
-  [[params.socialIcons]]
-  name = "reddit"
-  url = "https://reddit.com/r/leafguides"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://www.github.com/leafandJam"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON" ]
-
 [[menu.main]]
-identifier = "Categories"
-name = "Categories"
+identifier = "categories"
+name = "categories"
 url = "/categories/"
-weight = 20
-
-[[menu.main]]
-identifier = "Archives"
-name = "Archives"
-url = "/archives/"
-weight = 30
-
-[[menu.main]]
-identifier = "Search"
-name = "Search"
-url = "/search/"
 weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
